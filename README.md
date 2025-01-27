@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Thejas B P</h1>
-<h3 align="center">AIML Undergraduate</h3>
+<h3 align="center"></h3>
 
-- 🌱 I’m currently learning **Javascript,React**
-
+- 🌱 I’m currently learning **Devops,Cloud Technologies**
+  
 - 👨‍💻 All of my projects are available at [https://github.com/thejasbp?tab=repositories](https://github.com/thejasbp?tab=repositories)
 
 - 📫 How to reach me **thejasbp2002@gmail.com**
